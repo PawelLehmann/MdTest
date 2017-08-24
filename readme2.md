@@ -5,7 +5,28 @@ Now seven world think timed while her. Spoil large oh he rooms on since an. Am u
 # Quick start
 In this section please cover the essential information to get the first-time users started. (E.g: Introduction, requirements, installation, usage, referential information) 
 # Tutorial
-In this section (if applicable) please write an extended explanation of the quick start. E.g: Information that is nice to know, but not essential  
+In this section (if applicable) please write an extended explanation of the quick start. E.g: Information that is nice to know, but not essential
+Code exmaple:
+```javascript
+export const App = () => (
+  <Provider store={store}>
+    <ConnectedRouter history={history}>
+      <div>
+        <HeaderContainer/>
+        <Switch>
+          <Route exact path="/" component={HomeRoute}/>
+          <Route exact path="/developer" component={DeveloperRoute}/>
+          <Route path="/developer/article" component={ArticleRoute}/>
+          <Route component={NotFoundRoute}/>
+        </Switch>
+        <Footer/>
+      </div>
+    </ConnectedRouter>
+  </Provider>
+);
+export default App;
+
+```
 # References
 In this section please write theoretical and/or practical recommendations on how to best develop/design/implement your service  
 # Resources
