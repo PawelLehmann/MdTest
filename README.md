@@ -1,5 +1,4 @@
 # Super Header
-Some text. And even some more...
 ## Header One
 ## Header OneTwo
 ### Sub Header1
