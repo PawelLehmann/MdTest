@@ -1,4 +1,4 @@
-# Super Header awesome hey hey three times
+# Super Header
 Additional content.
 ## Header One
 ## Header OneTwo
