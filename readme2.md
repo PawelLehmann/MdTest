@@ -1,4 +1,4 @@
-# Overview 
+# Overview sent from VS.
 This guide will describe in details Veracity open source projects. Each of them is small piece of code providing useful functionality within Veracity platform. To proceed, you need to have Azure subscription.
 
 Links to content:
