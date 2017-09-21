@@ -2,6 +2,7 @@
 Additional content.
 Sent from VS.
 ## Header One
+Content of header one.
 ## Header OneTwo
 header two.
 ### Sub Header1
