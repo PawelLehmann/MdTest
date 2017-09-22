@@ -18,6 +18,3 @@ header two.
 Sent from VS.
 Another send. Change in several files.
 test again
-asdaaa
-bbb
-ccc
