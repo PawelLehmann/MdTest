@@ -1,5 +1,6 @@
 # Super Header headers
 Additional content.
+![alt text](http://images.clipartpanda.com/idea-light-bulb-clip-art-black-and-white-MTLEnkBTa.jpeg "This is the figure caption")
 One more additional content.
 Sent from VS.
 ## Header One
